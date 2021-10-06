@@ -1,0 +1,22 @@
+/**
+ * @name Discord4Thai
+ * @author ModzabazeR#5732
+ * @version 1.0.0
+ * @description ทำให้ฟอนต์ภาษาไทยดูสบายตาขึ้น
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+:root {
+    --font-primary: Whitney,"Mitr","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-display: Ginto,"Mitr","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.username-1A8OIy {
+    font-weight: 600;
+}
+
+.markup-2BOw-j {
+    font-weight: 400;
+}
